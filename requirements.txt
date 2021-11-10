@@ -1,0 +1,11 @@
+python version 3.9.2
+
+pip version 20.2.3
+
+flask version 2.0.1
+
+Flask-SQLAlchemy version 2.5.1
+
+requests version 2.26.0
+
+beautifulsoup4 version 4.9.3
